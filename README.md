@@ -23,7 +23,7 @@ fraunhofer-diffraction/
 1. Клонировать репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/fraunhofer-diffraction.git
+   git clone https://github.com/johannschmeissner/fraunhofer-diffraction.git
    cd fraunhofer-diffraction/src
    ```
 2. Создать и активировать виртуальное окружение (рекомендуется):
